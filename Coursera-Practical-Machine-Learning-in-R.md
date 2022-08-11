@@ -218,7 +218,7 @@ result
 corrPlot <- cor(trainDataset[, -length(names(trainDataset))])
 corrplot(corrPlot, method="color")
 ```
-![plot of chunk unnamed-chunk-12](figure/unnamed-chunk-12-1.png)
+![Corelation_matrix.png](Corelation_matrix.png)
 
 2.Decision Tree Visualization
 
