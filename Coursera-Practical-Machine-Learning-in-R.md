@@ -222,4 +222,4 @@ corrplot(corrPlot, method="color")
 
 2.Decision Tree Visualization
 
-![plot of chunk unnamed-chunk-13](figure/unnamed-chunk-13-1.png)
+![Decesion_tree.png](Decesion_tree.png)
